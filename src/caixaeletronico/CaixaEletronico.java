@@ -30,7 +30,7 @@ public class CaixaEletronico {
         cliente2.operar(4, 0);
         
         Cliente cliente3 = new Cliente(154875,100000);
-        cliente3.setNome("Marcolino");
+        cliente3.setNome("Emerson");
         
         cliente3.operar(4, 0);
         cliente3.operar(1, 500);
